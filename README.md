@@ -1,4 +1,4 @@
-# **Demo Streamlit Dashboard with Docker and Kubernetes 🚀**
+# **Demo Covid-19 Streamlit Dashboard with Docker and Kubernetes 🚀**
 
 This repository contains a lightweight, interactive Covid-19 demo dashboard built using Streamlit, containerized with Docker, and ready for deployment on Kubernetes.
 
@@ -98,7 +98,7 @@ streamlit-deployment/
 └── README.md                   # Project documentation
 ```
 
-Here is an sample image from the app:
+Here is a sample image from the app:
 
 ![Streamlit App](./Image/Sample.png)
 
